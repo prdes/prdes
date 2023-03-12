@@ -3,20 +3,21 @@
 
 
 - 🔭 I dig working on ...
-  -  Django (DRF), Flask Postgresql, Rasa NLP, Systems/Services Auditing and Deployment 
+  -  Python Anything! Django (DRF), Flask, postgreSQL, Rasa Natural Language Processing, Data Analytics - Identify and Extract relevant data, and clean it for further processing 
+  -  Contributing to Internet Relay Chat (IRC) by  sending patches to bot frameworks and writing plugins and improving existing ones , Bridging various protocols eg. the common ones (tg, discord) as well as XMPP, ssh-chat
 - 🌱 I’m currently learning ...
-  - Classic UNIX utilities and piping them in scripts.
+  - Data Visualization and developing 
   - Golang
-  -   
+  - Rust
+  - Perl Scripting to complement Python and Shell
 - 👯 I’m looking to collaborate on ...
   - Systems Implementation, Monitoring and Automation.
-  - Deeper understanding of the auditing systems, AIDEs, HIDEs and monitoring tools and how (the topic in the next point) may be used to achieve a more meaninful understanding of consistent ops.
-  - Data Science and Machine Learning. (pandas) (Rasa) 
-  - Writing helper scripts in `sh`, `bash`, `python`, `perl` and infuse them with ansible 
+  - Deeper understanding of the auditing systems, AIDEs, HIDEs, monitoring tools and tracking logging.
+  - Data Science and Machine Learning related projects
+  - Writing tooling and helper scripts in `sh`, `bash`, `python` and intgrate them with high level tools 
   - You can always contribute to [LibertaCasa](https://liberta.casa/) at our [Git](https://git.com.de/)   
 - 💬 Ask me about ...
-  - Internet Relay Chat with their bridges and bots
-  - CLI/TUI ncurses Interfaces 
+  - Internet Relay Chat
 - 📫 How to reach me: ...
   - I can be found under the `nick: mogad0n` on [IRC](https://liberta.casa/kiwi) or on XMPP at mogad0n@liberta.casa
-  - [Email](mailto:pratyush.desai@liberta.casa) ; [Gmail](mailto:pratyushndesai@gmail.com)
+  - [Gmail](mailto:pratyushndesai@gmail.com); [Email](mailto:mogad0n@liberta.casa)
