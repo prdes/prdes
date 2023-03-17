@@ -17,6 +17,9 @@
   - Writing tooling and helper scripts in `sh`, `bash`, `python` and intgrate them with high level tools 
   - You can always contribute to [LibertaCasa](https://liberta.casa/) at our [Git](https://git.com.de/)   
 - 📫 How to reach me: ...
-  - <em>IM</em>I can be found under the `nick: mogad0n` on [IRC](https://liberta.casa/kiwi) or on XMPP at mogad0n@liberta.casa
-  - <em>EMAIL</em>[Gmail](mailto:pratyushndesai@gmail.com); [Email](mailto:mogad0n@liberta.casa)
-  - <em>Socials</em>[Fosstodon](@mogad0n@fosstodon.org) and self-hosted [Takahe](@pratyush@social.liberta.casa)
+  - <em>IM</em> I can be found under the `nick: mogad0n` on [IRC](https://liberta.casa/kiwi) or on XMPP at mogad0n@liberta.casa
+  - <em>EMAIL</em> [Gmail](mailto:pratyushndesai@gmail.com); [Email](mailto:mogad0n@liberta.casa)
+  - <em>Socials</em> [Fosstodon](@mogad0n@fosstodon.org) and self-hosted [Takahe](@pratyush@social.liberta.casa)
+
+
+I only use github for contributing to existing projects. My personal work is at [LibertaCasa organization](https://git.com.de/LibertaCasa/), partially in my [private account](https://git.com.de/pratyush).
